@@ -1,0 +1,29 @@
+{
+  "name": "simplestwallet",
+  "version": "1.0.0",
+  "description": "A simplest implementation of BSV wallet",
+  "main": "send-money.js",
+  "dependencies": {
+    "bsv": "^1.5.3",
+    "mattercloudjs": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairwood/SimplestWallet.git"
+  },
+  "keywords": [
+    "Bitcoin",
+    "BSV",
+    "blockchain"
+  ],
+  "author": "Stephen Zhou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairwood/SimplestWallet/issues"
+  },
+  "homepage": "https://github.com/fairwood/SimplestWallet#readme"
+}
